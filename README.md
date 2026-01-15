@@ -1,38 +1,42 @@
-                                                ## How nice of you to visit! Welcome, I'm Kali 👋🏼 
+                                                
+## How nice of you to visit! Hey, I’m Kali 👋🏽
 
-                             I’m a Cloud Application Developer focused on building **serverless, scalable applications** with AWS.
+I’m a **Cloud Application Developer** focused on building modern, serverless applications on AWS.
+I enjoy turning real-world ideas into clean, scalable systems — one service at a time ☁️
 
-                             I enjoy turning real-world problems into clean, automated systems — especially using
-                             Lambda, API Gateway, DynamoDB, and modern front-end frameworks.
+Most of my work lives at the intersection of **cloud infrastructure, backend logic, and thoughtful frontends**.
 
-                             ---
+---
 
-                             ## 🔧 What I’m Working On
-                             - Building full-stack serverless apps with AWS (Lambda, API Gateway, DynamoDB)
-                             - Connecting cloud backends to React frontends
-                             - Writing clean, understandable infrastructure-as-code (AWS SAM)
+### 🧠 What I’m currently focused on
+- Building **full-stack serverless applications** with AWS (Lambda, API Gateway, DynamoDB)
+- Connecting cloud backends to **React frontends**
+- Writing clean, readable **infrastructure-as-code** using AWS SAM
+- Gradually exploring **AI-powered features** that enhance real applications (not just demos 🤖)
 
-                             ---
+---
 
-                             ## 🚀 Featured Projects
-                             ### 🐾 AWS Serverless Pet Shelter *(In Progress)*
-                             A full-stack serverless application using:
-                             - AWS Lambda
-                             - API Gateway
-                             - DynamoDB
-                             - React
+### 🚀 Featured Project
+**🐾 AWS Serverless Pet Shelter (In Progress)**  
+A full-stack serverless application built with:
+- AWS Lambda  
+- API Gateway  
+- DynamoDB  
+- React  
 
-                             👉 [View the repository](https://github.com/Ktechie-1428/Aws-Serverless-Pet-Shelter)
+👉 [View the repository](https://github.com/Ktechie-1428/Aws-Serverless-Pet-Shelter)
 
-                              ---
+This project represents how I learn best: by building real systems and improving them over time.
 
-                              ## 🧠 What I Care About
-                               - Learning by building real projects
-                               - Writing readable, maintainable code
-                               - Growing into a strong cloud engineer one system at a time
+---
 
-                               ---
+### 🤍 What I care about
+- Learning by **building**, not memorizing
+- Writing code that other humans can understand
+- Designing systems that are simple, scalable, and intentional
+- Growing into a strong cloud engineer one project at a time
 
-                               📫 **Let’s connect**
-                                - LinkedIn: https://www.linkedin.com/in/kali-c-201280127
+---
+
+✨ Thanks for stopping by — feel free to explore my projects or connect with me on LinkedIn.
   
