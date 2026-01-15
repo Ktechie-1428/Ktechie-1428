@@ -1,8 +1,9 @@
                                                 
 ## How nice of you to visit! Hey, I’m Kali 👋🏽
 
+
 I’m a **Cloud Application Developer** focused on building modern, serverless applications on AWS.
-I enjoy turning real-world ideas into clean, scalable systems — one service at a time ☁️
+I enjoy turning real world ideas into clean, scalable systems, one service at a time ☁️
 
 Most of my work lives at the intersection of **cloud infrastructure, backend logic, and thoughtful frontends**.
 
@@ -38,5 +39,5 @@ This project represents how I learn best: by building real systems and improving
 
 ---
 
-✨ Thanks for stopping by — feel free to explore my projects or connect with me on LinkedIn.
+✨ Thanks for stopping by — feel free to explore my projects or connect with me on LinkedIn:https://www.linkedin.com/in/kali-c-201280127
   
