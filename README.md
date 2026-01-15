@@ -4,7 +4,7 @@
 *(Cloud Builder • Serverless Thinker • Systems-in-Progress)*
 
 > I build cloud-native applications that turn messy ideas into clean, scalable systems, one service at a time.
-Most days, that means experimenting with AWS, breaking things on purpose, fixing them, and slowly turning messy ideas into clean, serverless systems. 
+Most days, that means experimenting with AWS, breaking things on purpose and fixing them.
 I’m especially drawn to backend logic, cloud infrastructure, and the “glue” that connects systems together.
 
 
