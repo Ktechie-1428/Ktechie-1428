@@ -1,43 +1,86 @@
                                                 
-## How nice of you to visit! Hey, I’m Kali 👋🏽
+## How nice of you to visit! Hi, I’m Kali  👋
+ 
+*(Cloud Builder • Serverless Thinker • Systems-in-Progress)*
 
+> I build cloud-native applications that turn messy ideas into clean, scalable systems, one service at a time.
+Most days, that means experimenting with AWS, breaking things on purpose, fixing them, and slowly turning messy ideas into clean, serverless systems. 
+I’m especially drawn to backend logic, cloud infrastructure, and the “glue” that connects systems together.
 
-I’m a **Cloud Application Developer** focused on building modern, serverless applications on AWS.
-I enjoy turning real world ideas into clean, scalable systems, one service at a time ☁️
-
-Most of my work lives at the intersection of **cloud infrastructure, backend logic, and thoughtful frontends**.
 
 ---
 
-### 🧠 What I’m currently focused on
-- Building **full-stack serverless applications** with AWS (Lambda, API Gateway, DynamoDB)
-- Connecting cloud backends to **React frontends**
-- Writing clean, readable **infrastructure-as-code** using AWS SAM
-- Gradually exploring **AI-powered features** that enhance real applications (not just demos 🤖)
+## 🌱 What I’m Focused On Right Now
+
+- 🧩 Building **full-stack serverless applications** with AWS  
+- 🔌 Connecting cloud backends to **React frontends**
+- 🛠 Writing **clean, readable infrastructure-as-code** using AWS SAM
+- 🤖 Exploring **AI features that enhance real applications**
 
 ---
 
-### 🚀 Featured Project
-**🐾 AWS Serverless Pet Shelter (In Progress)**  
-A full-stack serverless application built with:
+## 🚀 Featured Project
+
+### 🐾 AWS Serverless Pet Shelter *(In Progress)*
+
+A real world, full-stack serverless application designed to reflect how modern cloud systems work together.
+
+**Built with:**
 - AWS Lambda  
 - API Gateway  
 - DynamoDB  
 - React  
+- AWS SAM  
 
-👉 [View the repository](https://github.com/Ktechie-1428/Aws-Serverless-Pet-Shelter)
+👉 **View the repository:**  
+https://github.com/Ktechie-1428/Aws-Serverless-Pet-Shelter
 
-This project represents how I learn best: by building real systems and improving them over time.
-
----
-
-### 🤍 What I care about
-- Learning by **building**, not memorizing
-- Writing code that other humans can understand
-- Designing systems that are simple, scalable, and intentional
-- Growing into a strong cloud engineer one project at a time
+> This project represents how I learn best by building real systems, improving them over time, and understanding *why* things work.
 
 ---
 
-✨ Thanks for stopping by — feel free to explore my projects or connect with me on LinkedIn:https://www.linkedin.com/in/kali-c-201280127
+## 🧰 Tech I Enjoy Working With
+
+*(Not an exhaustive list — just what I actually use)*
+
+- ☁️ AWS (Lambda, API Gateway, DynamoDB, SAM)
+- 🐍 Python
+- ⚛️ React
+- 🧱 Infrastructure-as-Code
+- 🌐 REST APIs
+
+---
+
+## ✨ A Little More About Me
+
+- 🧠 I care about understanding **how systems work**, not just how to use them  
+- 📚 I learn best by building and breaking things
+- 🎯 Long-term focus: becoming exceptional at designing scalable cloud systems
+- 🌱 Actively growing into **AI + cloud integration**
+
+---
+
+✨ If something here sparks your curiosity, feel free to explore or connect.
+Thanks for stopping by 🤍
+
+- 💼 LinkedIn: https://linkedin.com/in/kali-c-201280127  
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
