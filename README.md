@@ -1,4 +1,4 @@
-![Cloud Banner](banner.png)
+![](banner.png)
 
 <img width="1280" height="400" alt="banner" src="https://github.com/user-attachments/assets/e562c206-c760-4790-a452-94a65b1d47a0" />
                                                 
