@@ -8,23 +8,44 @@
 
 > I build cloud-native applications that turn messy ideas into clean, scalable systems, one service at a time.
 Most days, that means experimenting with AWS, breaking things on purpose and fixing them.
-I’m especially drawn to backend logic, cloud infrastructure, and the “glue” that connects systems together.
+I’m especially drawn to backend logic, serverless infrastructure, and the “glue” that connects modern cloud systems together.
 
 
 ---
 
 ## 🌱 What I’m Focused On Right Now
 
-- 🧩 Building **full-stack serverless applications** with AWS  
-- 🔌 Connecting cloud backends to **React frontends**
-- 🛠 Writing **clean, readable infrastructure-as-code** using AWS SAM
-- 🤖 Exploring **AI features that enhance real applications**
+- 🧩 Building **serverless backend systems on AWS**
+- 🔌 Connecting **cloud APIs to full-stack applications**
+- 🛠 Designing **cloud architectures using Infrastructure as Code (SAM / CloudFormation)**
+- 🤖 Exploring **AI-powered applications built on cloud infrastructure**
 
 ---
 
 ## 🚀 Featured Project
 
-### 🐾 AWS Serverless Pet Shelter *(In Progress)*
+###  Serverless Backend API (AWS)
+
+A serverless REST API built and deployed on AWS using Lambda, API Gateway, DynamoDB, and AWS SAM.
+
+This project demonstrates how to design and deploy scalable backend infrastructure without managing servers.
+
+Features include creating and retrieving data through REST endpoints and deploying infrastructure using Infrastructure as Code.
+
+**Built with:**
+- AWS Lambda
+- Amazon API Gateway
+- Amazon DynamoDB
+- AWS SAM
+- AWS CloudFormation
+- Node.js
+
+👉 **View the repository:** 
+https://github.com/Ktechie-1428/serverless-backend-api
+
+##   Future Projects
+
+### 🐾 AWS Serverless Pet Shelter *(Planned Project)*
 
 A real world, full-stack serverless application designed to reflect how modern cloud systems work together.
 
